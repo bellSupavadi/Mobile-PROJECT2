@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "23415238409",
+    "firebase_url": "https://shopee-77a26.firebaseio.com",
+    "project_id": "shopee-77a26",
+    "storage_bucket": "shopee-77a26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23415238409:android:e10b355313e35e89",
+        "android_client_info": {
+          "package_name": "com.supavadi.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23415238409-qit36j4q793s0c1vl0rv5s5mo2adhtu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQEGAjJcym0K6EZEVTN3ZKo4Q_lo13oco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
